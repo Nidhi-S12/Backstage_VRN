@@ -1,13 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Location
 metadata:
-  name: new-backstage
-  description: An example of a Backstage application.
-  # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
+  name: ec2-nodejs-template
+  description: Template for Node.js app on EC2
 spec:
-  type: website
-  owner: john@example.com
-  lifecycle: experimental
+  type: url
+  targets:
+    - https://github.com/Nidhi-S12/Backstage_VRN/blob/main/backstage-templates/template.yaml
