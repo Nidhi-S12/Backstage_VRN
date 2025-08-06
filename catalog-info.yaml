@@ -6,4 +6,4 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/Nidhi-S12/Backstage_VRN/blob/main/backstage-templates/skeleton/catalog-info.yaml 
+    - https://github.com/Nidhi-S12/backstage-templates/blob/main/template.yaml

@@ -15302,8 +15302,8 @@ __metadata:
     "@testing-library/user-event": "npm:^14.0.0"
     "@types/react-dom": "npm:*"
     cross-env: "npm:^7.0.0"
-    react: "npm:^18.0.2"
-    react-dom: "npm:^18.0.2"
+    react: "npm:^18.2.0"
+    react-dom: "npm:^18.2.0"
     react-router: "npm:^6.3.0"
     react-router-dom: "npm:^6.3.0"
   languageName: unknown
@@ -15944,9 +15944,11 @@ __metadata:
     "@backstage/plugin-auth-backend-module-github-provider": "npm:^0.3.5"
     "@backstage/plugin-auth-backend-module-guest-provider": "npm:^0.2.10"
     "@backstage/plugin-auth-node": "npm:^0.6.5"
+    "@backstage/plugin-catalog": "npm:^1.31.1"
     "@backstage/plugin-catalog-backend": "npm:^3.0.0"
     "@backstage/plugin-catalog-backend-module-logs": "npm:^0.1.12"
     "@backstage/plugin-catalog-backend-module-scaffolder-entity-model": "npm:^0.2.10"
+    "@backstage/plugin-catalog-import": "npm:^0.13.3"
     "@backstage/plugin-kubernetes-backend": "npm:^0.19.8"
     "@backstage/plugin-permission-backend": "npm:^0.7.2"
     "@backstage/plugin-permission-backend-module-allow-all-policy": "npm:^0.2.10"
@@ -28916,7 +28918,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^18.0.2":
+"react-dom@npm:^18.2.0":
   version: 18.3.1
   resolution: "react-dom@npm:18.3.1"
   dependencies:
@@ -29373,7 +29375,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^18.0.2":
+"react@npm:^18.2.0":
   version: 18.3.1
   resolution: "react@npm:18.3.1"
   dependencies:
